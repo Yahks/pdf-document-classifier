@@ -1,0 +1,50 @@
+[
+  {
+    "filename": "employment_contract.pdf",
+    "category": "Legal / Contract",
+    "confidence": 0.6667,
+    "pages": 1,
+    "word_count": 62,
+    "status": "OK"
+  },
+  {
+    "filename": "encrypted_document.pdf",
+    "category": "Error",
+    "confidence": 0.0,
+    "pages": 0,
+    "word_count": 0,
+    "status": "Could not read PDF: "
+  },
+  {
+    "filename": "invoice_2024_001.pdf",
+    "category": "Invoice / Financial",
+    "confidence": 0.9091,
+    "pages": 1,
+    "word_count": 63,
+    "status": "OK"
+  },
+  {
+    "filename": "john_doe_resume.pdf",
+    "category": "Resume / CV",
+    "confidence": 0.625,
+    "pages": 1,
+    "word_count": 86,
+    "status": "OK"
+  },
+  {
+    "filename": "medical_report.pdf",
+    "category": "Medical / Health",
+    "confidence": 0.9286,
+    "pages": 1,
+    "word_count": 75,
+    "status": "OK"
+  },
+  {
+    "filename": "research_paper.pdf",
+    "category": "Academic / Research",
+    "confidence": 0.8947,
+    "pages": 1,
+    "word_count": 87,
+    "status": "OK"
+  }
+]

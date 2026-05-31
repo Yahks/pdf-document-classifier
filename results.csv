@@ -1,0 +1,7 @@
+filename,category,confidence,pages,word_count,status
+employment_contract.pdf,Legal / Contract,0.6667,1,62,OK
+encrypted_document.pdf,Error,0.0,0,0,Could not read PDF: 
+invoice_2024_001.pdf,Invoice / Financial,0.9091,1,63,OK
+john_doe_resume.pdf,Resume / CV,0.625,1,86,OK
+medical_report.pdf,Medical / Health,0.9286,1,75,OK
+research_paper.pdf,Academic / Research,0.8947,1,87,OK

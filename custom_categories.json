@@ -1,0 +1,17 @@
+{
+  "Insurance Claim": [
+    "claim", "policy number", "insured", "premium", "deductible",
+    "coverage", "beneficiary", "adjuster", "settlement", "liability",
+    "insurance", "underwriter", "reimbursement"
+  ],
+  "Real Estate": [
+    "property", "deed", "mortgage", "listing", "appraisal",
+    "escrow", "title", "landlord", "tenant", "lease", "rental",
+    "square footage", "zoning", "conveyance"
+  ],
+  "Tax / Government": [
+    "tax return", "irs", "hmrc", "taxable income", "deduction",
+    "filing", "w-2", "1099", "withholding", "refund", "audit",
+    "government", "federal", "state tax", "form"
+  ]
+}
